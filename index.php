@@ -1,4 +1,6 @@
-
+<?php 
+include('style.css')
+ ?>
  <!DOCTYPE html>
  <html>
  <head>
